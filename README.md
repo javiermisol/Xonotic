@@ -1,5 +1,5 @@
 # Xonotic
-##The Free and Fast Arena Shooter
+## The Free and Fast Arena Shooter
 
 Xonotic es un adictivo juego de disparos en primera persona de estilo arena con movimientos nítidos y un amplio arsenal de armas. Combina mecánicas intuitivas con acción a raudales para elevar tu ritmo cardíaco. Xonotic siempre será libre de jugar y modificar bajo la licencia copyleft GPLv3+.
 Armas distintivas
@@ -17,8 +17,7 @@ Estadísticas de jugador integradas
 Sigue tu progreso con XonStat, la aplicación integrada de estadísticas de jugador. Consulta estadísticas vitales como tu proporción de muertes, el daño y la precisión de tus armas y las partidas recientes. El seguimiento es totalmente opcional y no es necesario iniciar sesión.
 Cabecera personalizable
 
-Traducción realizada con la versión gratuita del traductor www.DeepL.com/Translator
 
-Instalador para windows facil y sencillo.
-Paquete deb para sistemas GNU Ubuntu Linux.
-Xonotic 0.8.6 para ubuntu y Windows.
+# Instalador para windows facil y sencillo.
+# Paquete deb para sistemas GNU Ubuntu Linux.
+##Xonotic 0.8.6 para ubuntu y Windows.
