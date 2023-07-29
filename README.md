@@ -20,4 +20,4 @@ Cabecera personalizable
 
 ### Instalador para windows facil y sencillo.
 ### Paquete deb para sistemas GNU Ubuntu Linux.
-###Xonotic 0.8.6 para ubuntu y Windows.
+#### Xonotic 0.8.6 para ubuntu y Windows.
