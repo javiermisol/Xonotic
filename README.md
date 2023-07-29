@@ -18,6 +18,6 @@ Sigue tu progreso con XonStat, la aplicación integrada de estadísticas de juga
 Cabecera personalizable
 
 
-# Instalador para windows facil y sencillo.
-# Paquete deb para sistemas GNU Ubuntu Linux.
-##Xonotic 0.8.6 para ubuntu y Windows.
+### Instalador para windows facil y sencillo.
+### Paquete deb para sistemas GNU Ubuntu Linux.
+###Xonotic 0.8.6 para ubuntu y Windows.
