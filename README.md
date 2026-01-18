@@ -1,7 +1,7 @@
 # Xonotic
 ## The Free and Fast Arena Shooter
 
-[screenshots Xonotic](https://github.com/javiermisol/Xonotic/blob/main/ScreenShots/frontpage_008.jpg)
+![Screenshots Xonotic](https://github.com/javiermisol/Xonotic/blob/main/ScreenShots/frontpage_008.jpg)
 
 
 Xonotic es un adictivo juego de disparos en primera persona de estilo arena con movimientos nítidos y un amplio arsenal de armas. Combina mecánicas intuitivas con acción a raudales para elevar tu ritmo cardíaco. Xonotic siempre será libre de jugar y modificar bajo la licencia copyleft GPLv3+.
